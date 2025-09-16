@@ -70,7 +70,7 @@
 
 #Controle de Gastos Mensais
 
-def calcular_saldo(rendimento,despesas):
+'''def calcular_saldo(rendimento,despesas):
     return rendimento - despesas
 
 def sugerir_poupanca (saldo):
@@ -106,4 +106,5 @@ try:
     else:
         print("Seu orçamento esta equilibrado , sem saldo restante para poupar.")
 except ValueError as e:
-    print(f"Erro na entrada de dados : {e}")
+    print(f"Erro na entrada de dados : {e}")'''
+
